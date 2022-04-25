@@ -1,0 +1,12 @@
+:root {
+    --bg-color: #141E27;
+    --box-color: #203239;
+    --content-color: #ECDBBA;
+    --global-text-color: seashell;
+    --global-border-color: #ECDBBA;
+
+    --link-color:seashell;
+    --link-hover-color: #ECDBBA;
+    
+    --main-font-size:10px;
+}
